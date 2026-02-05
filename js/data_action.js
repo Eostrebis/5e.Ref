@@ -177,7 +177,7 @@ data_action = [
     {
         title: "Stabiliser une créature",
         icon: "first-aid",
-        subtitle: "Administrer les premiers soins à une créature mourante",
+        subtitle: "Administrer des soins à une créature",
         description: "Stabilisez une créature pour qu'elle n'ait plus à réaliser de jet de sauvegarde contre la mort",
         reference: "PHB, pg. 197.",
         bullets: [

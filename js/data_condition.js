@@ -71,7 +71,7 @@ data_condition = [
     {
         title: "Incapacité",
         icon: "internal-injury",
-        subtitle: "Vous ne pouvez pas prendre d'action ni de réaction",
+        subtitle: "Vous ne pouvez prendre ni action ni réaction",
         description: "Vous ne pouvez pas prendre d'action ni de réaction",
         reference: "PHB, pg. 290.",
         bullets: [

@@ -67,8 +67,8 @@ function init() {
     fill_section(data_environment_vision, "environment-vision", "Environment");
     fill_section(data_environment_cover, "environment-cover", "Environment");
 
-    var modal = document.getElementById("modal");
-    modal.onclick = hide_modal;
+    var modal_close = document.getElementById("close-modal-btn");
+    modal_close.onclick = hide_modal;
 }
 
 $(window).load(init);

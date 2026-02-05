@@ -37,6 +37,34 @@
     font-size: 16pt;
 }
 
+/* Le conteneur du bas */
+.section-footer {
+    padding: 15px;              /* Espace autour du bouton */
+    text-align: center;        /* Une ligne fine pour séparer du contenu (optionnel) */
+
+    border-radius: 8px;
+
+    /* Arrondi du bas pour coller à votre modal-container si celui-ci est arrondi */
+    border-bottom-left-radius: inherit;
+    border-bottom-right-radius: inherit;
+}
+
+/* Le bouton lui-même */
+.modal-close-btn {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%; /* Rend le bouton rond */
+    border: 1px solid #ccc;
+    background: white;
+    color: #333;
+    font-size: 1.5rem;
+    line-height: 1; /* Centre la croix verticalement */
+    cursor: pointer;
+}
+.modal-close-btn:hover {
+    background-color: #f1f1f1;
+}
+
 .float-right {
     float: right;
 }
