@@ -1,6 +1,7 @@
 MIT License
 
-Copyright (c) 2016 Robert Autenrieth
+Original Copyright (c) 2016 by Robert Autenrieth
+French translation Copyright (c) 2026 by Gautier Raimondi
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
