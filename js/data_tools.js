@@ -27,7 +27,7 @@ data_artisan = [
     {
         title: "Matériel de Calligraphie",
         icon: "ink-swirl",
-        subtitle: "Produire de belles écritures et pratiquer la graphologie",
+        subtitle: "Produire de belles écritures",
         description: "De l'encre, une douzaine de feuilles de parchemin et trois plumes",
         bullets: [
             "<b>Arcane</b> Vous identifiez plus facilement l'auteur d'un script magique.",
@@ -39,7 +39,7 @@ data_artisan = [
     {
         title: "Outils de Charpentier",
         icon: "hand-saw",
-        subtitle: "Construire des meubles et structures en bois",
+        subtitle: "Construire des structures en bois",
         description: "Une scie, un marteau, des clous, une hachette, une équerre, une règle, une herminette, un niveau et un ciseau",
         bullets: [
             "<b>Histoire</b> Vous identifiez plus facilement l'utilité et l'origine des structures en bois.",
@@ -54,7 +54,7 @@ data_artisan = [
     {
         title: "Outils de Cartographe",
         icon: "sextant",
-        subtitle: "Dessiner des cartes de petite ou grande ampleur",
+        subtitle: "Dessiner des cartes",
         description: "Une plume, de l'encre, des parchemins, une paire de boussoles, un vernier et une règle",
         bullets: [
             "<b>Arcane, Histoire, Religion</b> Vous pouvez décerner plus d'informations grâce aux cartes, comme des messages cachés, des changements géologiques...",
@@ -98,7 +98,7 @@ data_misc = [
     {
         title: "Kit de Déguisement",
         icon: "prank-glasses",
-        subtitle: "Se déguiser ou adopter une fausse identité",
+        subtitle: "Se déguiser",
         description: "Du maquillage, des couleurs pour cheveux, quelques accessoires et vêtements",
         bullets: [
             "<b>Tromperie</b> Parfois, un déguisement peut aider à mentir de façon convaincante",
@@ -112,7 +112,7 @@ data_misc = [
     {
         title: "Kit de Faussaire",
         icon: "archive-register",
-        subtitle: "Reproduire des documents et imiter sceaux et signatures",
+        subtitle: "Reproduire des documents et sceaux",
         description: "Plusieurs encres, différentes variétés de parchemins et de papier, quelques plumes, des sceaux et de la cire, des feuilles d'or et d'argent ainsi que des petits outils pour tailler la cire avant d'imiter un sceau.",
         bullets: [
             "<b>Arcane</b> Vous pouvez utiliser vos connaissances pour déterminer si un objet magique est un faux ou non.",
