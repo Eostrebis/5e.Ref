@@ -193,7 +193,7 @@ data_action = [
         description: "Réalisez n'importe quelle action que vous pouvez imaginer",
         reference: "PHB, pg. 193.",
         bullets: [
-            "Lorsque vous décrivez une action qui n'est pas détaillé dans les règles, le MJ vous indique si l'action est possible et les jets à réaliser, le cas échéant, pour déterminer le succès ou non de l'action."
+            "Lorsque vous décrivez une action qui n'est pas détaillée dans les règles, le MJ vous indique si l'action est possible et les jets à réaliser, le cas échéant, pour déterminer le succès ou non de l'action."
         ]
     }
 ]

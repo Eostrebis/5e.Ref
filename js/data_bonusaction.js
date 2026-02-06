@@ -20,7 +20,7 @@ data_bonusaction = [
         reference: "PHB, pg. 192.",
         bullets: [
             "Vous ne pouvez pas lancer un sort avec votre sort puis un autre sort avec votre action bonus pendant le même tour, sauf si le sort lancé avec votre action est un cantrip.",
-            "Pour plus de détails, voire l'action <i>Lancer un sort</i>."
+            "Pour plus de détails, voir l'action <i>Lancer un sort</i>."
         ]
     },
     {

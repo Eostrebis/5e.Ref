@@ -75,7 +75,7 @@ data_environment_vision = [
         description: "Une créature avec la vision dans le noir voit mieux dans les ténèbres ou les conditions à lumière faible, dans un certain rayon",
         reference: "PHB, pgs. 183-184.",
         bullets: [
-            "Dans une portée définie, une créature avec une vision dans le noir peut <b>voir dans les ténèbres comme dans la lumière faible</b>, donc les zones de ténèbres ne sont que faiblement obscurées pour cette créature",
+            "Dans une portée définie, une créature avec une vision dans le noir peut <b>voir dans les ténèbres comme dans la lumière faible</b>, donc les zones de ténèbres ne sont que faiblement obscurées pour cette créature.",
             "Cependant, la créature ne peut pas discerner les couleurs dans les ténèbres, seulement les nuances de gris.",
             "Beaucoup de créatures des mondes de D&D, particulièrement celles qui vivent sous terre, ont la vision dans le noir."
         ]

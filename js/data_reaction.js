@@ -30,7 +30,7 @@ data_reaction = [
         reference: "PHB, pg. 192.",
         bullets: [
             "Déclencheur : spécifié par le sort.",
-            "Pour plus de détails, voire l'action <i>Lancer un sort</i>."
+            "Pour plus de détails, voir l'action <i>Lancer un sort</i>."
         ]
     }
 ]
