@@ -154,6 +154,59 @@
     color: maroon;
 }
 
+#section-artisan, #section-artisan .item-icon {
+    background-color: SaddleBrown;
+    border-color: SaddleBrown;
+}
+
+#section-artisan .text {
+    color: SaddleBrown;
+}
+
+#section-music, #section-music .item-icon {
+    background-color: DarkGoldenRod;
+    border-color: DarkGoldenRod;
+}
+
+#section-music .text {
+    color: DarkGoldenRod;
+}
+
+#section-gaming, #section-gaming .item-icon {
+    background-color: RoyalBlue;
+    border-color: RoyalBlue;
+}
+
+#section-language, #section-language .item-icon {
+    background-color: DarkMagenta;
+    border-color: DarkMagenta;
+}
+#section-language .text {
+    color: DarkMagenta;
+}
+
+#section-gaming .text {
+    color: RoyalBlue;
+}
+
+#section-misc, #section-misc .item-icon {
+    background-color: SlateGrey;
+    border-color: SlateGrey;
+}
+
+#section-misc .text {
+    color: SlateGrey;
+}
+
+#section-vehicle, #section-vehicle .item-icon {
+    background-color: DarkCyan;
+    border-color: DarkCyan;
+}
+
+#section-vehicle .text {
+    color: DarkCyan;
+}
+
 #section-action, #section-action .item-icon {
     background-color: black;
     border-color: black;
