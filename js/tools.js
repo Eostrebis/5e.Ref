@@ -58,6 +58,7 @@ function fill_section(data, parentname, type) {
 function init() {
     fill_section(data_artisan, "basic-artisan", "Outil d'Artisanat");
     fill_section(data_misc, "basic-misc", "Outil Divers");
+    fill_section(data_gaming, "basic-gaming", "Set de Jeu");
 
     var modal_close = document.getElementById("close-modal-btn");
     modal_close.onclick = hide_modal;
