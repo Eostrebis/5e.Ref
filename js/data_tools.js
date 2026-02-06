@@ -125,3 +125,54 @@ data_misc = [
         ]
     },
 ]
+
+data_gaming = [
+    {
+        title: "Set de Dé",
+        icon: "rolling-dices",
+        subtitle: "Tout ce qui touche aux dés",
+        description: "Un set complet de dés",
+        bullets: [
+            "<b>Histoire</b> Vous connaissez toute l'histoire connectée au jeu, y compris les évènements et personnages liés",
+            "<b>Perspicacité</b> Jouer avec quelqu'un vous confère une meilleure compréhension de sa personnalité.",
+            "<b>Escamotage</b> Votre connaissance du jeu vous permet de tricher ou de captiver une cible par votre maîtrise.",
+            "<table><tr><th style='text-align:left'>Activité</th><th>DD</th></tr><tr><td>Repérer la triche d'un joueur</td><td>15</td></tr><tr><td>Obtenir des informations sur la personnalité d'un adversaire</td><td>15</td></tr></table>"
+        ]
+    },
+    {
+        title: "Jeu d'Échec-Dragon",
+        icon: "spiked-dragon-chess",
+        subtitle: "Un jeu d'échec ancestral",
+        description: "Un jeu d'échec complet, de la figurine de pion en bois à celles de dragons en métaux rares",
+        bullets: [
+            "<b>Histoire</b> Vous connaissez toute l'histoire connectée au jeu, y compris les évènements et personnages liés",
+            "<b>Perspicacité</b> Jouer avec quelqu'un vous confère une meilleure compréhension de sa personnalité.",
+            "<b>Escamotage</b> Votre connaissance du jeu vous permet de tricher ou de captiver une cible par votre maîtrise.",
+            "<table><tr><th style='text-align:left'>Activité</th><th>DD</th></tr><tr><td>Repérer la triche d'un joueur</td><td>15</td></tr><tr><td>Obtenir des informations sur la personnalité d'un adversaire</td><td>15</td></tr></table>"
+        ]
+    },
+    {
+        title: "Jeu de Cartes",
+        icon: "poker-hand",
+        subtitle: "Tout ce qui touche aux cartes",
+        description: "Un beau jeu de cartes complet",
+        bullets: [
+            "<b>Histoire</b> Vous connaissez toute l'histoire connectée au jeu, y compris les évènements et personnages liés",
+            "<b>Perspicacité</b> Jouer avec quelqu'un vous confère une meilleure compréhension de sa personnalité.",
+            "<b>Escamotage</b> Votre connaissance du jeu vous permet de tricher ou de captiver une cible par votre maîtrise.",
+            "<table><tr><th style='text-align:left'>Activité</th><th>DD</th></tr><tr><td>Repérer la triche d'un joueur</td><td>15</td></tr><tr><td>Obtenir des informations sur la personnalité d'un adversaire</td><td>15</td></tr></table>"
+        ]
+    },
+    {
+        title: "Jeu des Dragons",
+        icon: "card-pick",
+        subtitle: "Un jeu de pari et de bluffs",
+        description: "Un beau jeu de cartes complet",
+        bullets: [
+            "<b>Histoire</b> Vous connaissez toute l'histoire connectée au jeu, y compris les évènements et personnages liés",
+            "<b>Perspicacité</b> Jouer avec quelqu'un vous confère une meilleure compréhension de sa personnalité.",
+            "<b>Escamotage</b> Votre connaissance du jeu vous permet de tricher ou de captiver une cible par votre maîtrise.",
+            "<table><tr><th style='text-align:left'>Activité</th><th>DD</th></tr><tr><td>Repérer la triche d'un joueur</td><td>15</td></tr><tr><td>Obtenir des informations sur la personnalité d'un adversaire</td><td>15</td></tr></table>"
+        ]
+    },
+]
