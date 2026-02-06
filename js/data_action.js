@@ -145,7 +145,7 @@ data_action = [
         title: "Chercher",
         icon: "magnifying-glass",
         subtitle: "",
-        description: "Dévouer toute votre attention à la recherche de quelque chose.",
+        description: "Dévouez toute votre attention à la recherche de quelque chose.",
         reference: "PHB, pg. 193.",
         bullets: [
             "En fonction de ce que vous cherchez, le MJ peut vous faire faire un jet de Sagesse (Perception) ou d'Intelligence (Investigation)."
