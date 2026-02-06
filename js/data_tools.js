@@ -141,7 +141,7 @@ data_gaming = [
     },
     {
         title: "Jeu d'Échec-Dragon",
-        icon: "spiked-dragon-chess",
+        icon: "spiked-dragon-head",
         subtitle: "Un jeu d'échec ancestral",
         description: "Un jeu d'échec complet, de la figurine de pion en bois à celles de dragons en métaux rares",
         bullets: [
