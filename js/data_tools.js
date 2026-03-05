@@ -90,6 +90,31 @@ data_artisan = [
             "<table><tr><th style='text-align:left'>Activité</th><th>DD</th></tr><tr><td>Cuisiner un repas simple</td><td>10</td></tr><tr><td>Reproduire un plat</td><td>15</td></tr><tr><td>Remarquer du poison ou des impuretés dans la nourriture</td><td>15</td></tr><tr><td>Cuisiner un plat gastronomique</td><td>15</td></tr></table>"
         ]
     },
+    {
+        title: "Outils de Verrier",
+        icon: "glass-ball",
+        subtitle: "Souffler du verre",
+        description: "Une fêle, un marbre, des blocks de verre, de la pâte de verre et des mailloches. Vous avez besoin d'une carcaise et d'une source de chaleur pour souffler le verre.",
+        bullets: [
+            "<b>Arcane, Histoire</b> Vous pouvez analyser les objets de verre. Par exemple, identifier les effets d'une potion en étudiant l'usure de la fiole.",
+            "<b>Investigation</b> Vous repérez plus facilement les fragments de verre.",
+            "<b>Identifier les fragilités</b> En une minute, vous identifiez les vulnérabilités d'un objet en verre, où les dégâts subis sont doublés.",
+            "<table><tr><th style='text-align:left'>Activité</th><th>DD</th></tr><tr><td>Identifier l'origine d'un verre</td><td>10</td></tr><tr><td>Déterminer l'ancien contenu d'un objet en verre</td><td>20</td></tr></table>"
+        ]
+    },
+    {
+        title: "Outils de Joaillier",
+        icon: "sextant",
+        subtitle: "Tailler des gemmes",
+        description: "Une petite scie et un marteau, des dossiers sur les différentes pierres et leurs valeurs ainsi que des pinces.",
+        bullets: [
+            "<b>Arcane</b> Vous connaissez les rumeurs sur les utilisations mystiques des gemmes.",
+            "<b>Investigation</b> Vous décelez plus facilement les indices contenus dans les bijoux.",
+            "<b>Identifier des Gemmes</b> Vous pouvez identifier les gemmes et estimer leurs valeurs en un coup d'œil.",
+            "<table><tr><th style='text-align:left'>Activité</th><th>DD</th></tr><tr><td>Modifier l'apparence d'une gemme</td><td>15</td></tr><tr><td>Déterminer l'historique d'une gemme</td><td>20</td></tr></table>"
+        ]
+    },
+
 ]
 
 
@@ -122,6 +147,20 @@ data_misc = [
             "<b>Autres Outils</b> Vous pouvez créer des faux en utilisant vos autres maîtrises d'outil",
             "<b>Faux Vite-Fait</b> Faux d'une page au plus en un repos court. Faux de quatre pages en un repos long. Jet d'Intelligence comme DD pour indentifier la non-véracité.",
             "<table><tr><th style='text-align:left'>Activité</th><th>DD</th></tr><tr><td>Imiter une écriture</td><td>15</td></tr><tr><td>Reproduire un sceau</td><td>20</td></tr></table>"
+        ]
+    },
+    {
+        title: "Kit d'Herbaliste",
+        icon: "apothecary",
+        subtitle: "Identifier et récolter des plantes",
+        description: "Des bourses à herbes, des petites pinces et des gants en cuir, un mortier et un pilon, ainsi que plusieurs petits contenants en verre.",
+        bullets: [
+            "<b>Arcane</b> Vous appréhendez plus facilement les arcanes utilisant les plantes et vous identifiez plus aisément les poisons.",
+            "<b>Investigation</b> Lors de l'inspection d'une zone dominée par la végétation, vous êtes moins gêné que beaucoup par les hautes herbes.",
+            "<b>Médecine</b> Votre utilisation des plantes médicinales améliore vos capacités de traitement.",
+            "<b>Nature et Survie</b> En voyage, vous identifiez plus facilement plantes et sources de nourriture.",
+            "<b>Identifier les Plantes</b> Vous pouvez identifier la majorité des plantes rapidement en vous basant sur leurs apparences et leurs odeurs.",
+            "<table><tr><th style='text-align:left'>Activité</th><th>DD</th></tr><tr><td>Trouver des plantes</td><td>15</td></tr><tr><td>Identifier un poison</td><td>20</td></tr></table>"
         ]
     },
 ]
